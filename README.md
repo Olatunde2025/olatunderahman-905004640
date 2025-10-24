@@ -4,7 +4,7 @@ BIT1103
 ![image alt](https://github.com/Olatunde2025/olatunderahman-905004640/blob/d5e4aa2c19ad1f859574a219f79d521d337b9c0a/hand%20draw%20sketch.jpg)
 
 # Home page 
-![image alt](https://github.com/Olatunde2025/olatunderahman-905004640/blob/bf7bdb50220360811789695b045fb81098ec6a59/home.png)
+![image alt]()
 
 # Players page 
 ![image](https://github.com/Olatunde2025/olatunderahman-905004640/blob/e4327f92c4be7de14fb809188fa3cd8cf2b6c72f/players.png)
