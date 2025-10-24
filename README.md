@@ -10,4 +10,7 @@ BIT1103
 ![image](https://github.com/Olatunde2025/olatunderahman-905004640/blob/e4327f92c4be7de14fb809188fa3cd8cf2b6c72f/players.png)
 
 # About page wireframe
+![image alt](https://github.com/Olatunde2025/olatunderahman-905004640/blob/6af9b3cf920a63718e5cf32ebf697252969f134e/about.png)
+
+# Matches wireframe
 ![image alt]()
