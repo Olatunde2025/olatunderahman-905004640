@@ -10,6 +10,10 @@ BIT1103
 ![image alt](https://github.com/Olatunde2025/olatunderahman-905004640/blob/main/9a1562ad-5077-40e1-9758-4f5a1f78a33a.jpg)
 
 # Players page wireframe
+![image alt](https://github.com/Olatunde2025/olatunderahman-905004640/blob/main/players%20page.png)
+
+# matches page sketch
+![image alt]()
 
 # matches page wireframe
 ![image]
