@@ -28,4 +28,4 @@ BIT1103
 ![image alt](https://github.com/Olatunde2025/olatunderahman-905004640/blob/main/eceff0b3-1c52-4f75-85f7-0828f31189ac.jpg)
 
 # contact page wireframe
-![image alt]()
+![image alt](https://github.com/Olatunde2025/olatunderahman-905004640/blob/main/contact.png)
