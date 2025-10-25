@@ -6,7 +6,7 @@ BIT1103
 # Home page wireframe
 ![image](https://github.com/Olatunde2025/olatunderahman-905004640/blob/main/home%20page.png)
 
-# players page wireframe 
+# players page sketch
 ![image alt]
 # matches page wireframe
 ![image]
