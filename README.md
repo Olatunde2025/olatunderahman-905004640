@@ -25,7 +25,7 @@ BIT1103
 ![image alt](https://github.com/Olatunde2025/olatunderahman-905004640/blob/main/about.png)
 
 # contact page sketch
-![image alt]
+![image alt]()
 
 # contact page wireframe
-![image}()
+![image alt]()
