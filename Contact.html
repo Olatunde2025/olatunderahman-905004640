@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contact - Football Agency SL</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="logo">Football Agency <span>SL</span></div>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="players.html">Players</a>
+        <a href="matches.html">Matches</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="active btn">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <h1>Contact Us</h1>
+    <p class="lead">Questions or player inquiries? Reach out using the form below.</p>
+
+    <div class="contact-grid">
+      <form class="contact-form">
+        <label>Name</label>
+        <input type="text" placeholder="Your name" required />
+        <label>Email</label>
+        <input type="email" placeholder="Your email" required />
+        <label>Message</label>
+        <textarea placeholder="Tell us about the player or inquiry" rows="6" required></textarea>
+        <button type="submit" class="btn">Send Message</button>
+      </form>
+
+      <aside class="contact-info">
+        <h3>Agency Office</h3>
+        <p>Email: info@footballagencysl.com</p>
+        <p>Phone: +232 77 123 456</p>
+        <p>Address: 12 Football Road, Freetown, Sierra Leone</p>
+
+        <h4>Social</h4>
+        <p><a href="#">Facebook</a> • <a href="#">Instagram</a></p>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>© 2025 Football Agency Sierra Leone</div>
+      <div class="socials">Follow: <a href="#">Facebook</a> • <a href="#">Instagram</a></div>
+    </div>
+  </footer>
+
+  <script>
+    // Demo: avoid real submissions - show a simple alert
+    document.querySelector('.contact-form').addEventListener('submit', function (e) {
+      e.preventDefault();
+      alert('Thanks! Your message has been recorded (demo).');
+      this.reset();
+    });
+  </script>
+</body>
+</html>
